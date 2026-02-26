@@ -1,14 +1,14 @@
 export const businessInfo = {
   brand: "Yann Services 29",
-  owner: "Yann PENNANGUER",
-  zone: "Concarneau, Trégunc et 15 km autour (Melgven, Rosporden, Pont-Aven, Névez...)",
+  owner: "Yann.P",
+  zone: "Trégunc et 10 km autour (Concarneau, Melgven, Rosporden, Pont-Aven, Névez...)",
   availability: "Disponible 6j/7",
   hours: "8h - 18h",
   responseDelay: "Sous 24h",
   phoneDisplay: "06 62 01 54 74",
   phoneRaw: "+33662015474",
   email: "yannservices29@gmail.com",
-  trustBadges: ["Intervention rapide", "Devis gratuit", "Travail soigné", "Zone : Concarneau + 15 km"],
+  trustBadges: ["Intervention rapide", "Devis gratuit", "Travail soigné", "Zone : Trégunc + 10 km"],
 };
 
 export const navLinks = [
