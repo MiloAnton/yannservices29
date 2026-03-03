@@ -1,6 +1,7 @@
 export const businessInfo = {
   brand: "Yann Services 29",
   owner: "Yann.P",
+  logoPath: "/logoYANN.png",
   zone: "Trégunc et 10 km autour (Concarneau, Melgven, Rosporden, Pont-Aven, Névez...)",
   availability: "Disponible 6j/7",
   hours: "8h - 18h",
@@ -15,7 +16,7 @@ export const navLinks = [
   { label: "Réalisations", href: "#realisations" },
   { label: "Avis clients", href: "#avis" },
   { label: "Services", href: "#services" },
-  { label: "Contact", href: "#contact" },
+  { label: "Contactez-moi !", href: "#contact" },
 ];
 
 export const heroContent = {
@@ -32,15 +33,15 @@ export const photos = [
   { id: 5, src: "/images/realisations/meuble_etageres.jpg", alt: "Montage de meubles et étagères" },
   { id: 6, src: "/images/realisations/montage_meuble_cuisine.jpg", alt: "Montage d'un meuble de cuisine" },
   { id: 7, src: "/images/realisations/peinture.jpg", alt: "Petits travaux de peinture intérieure" },
-  { id: 8, src: "/images/realisations/tonte2.jpeg", alt: "Tonte de pelouse - photo 2" },
+  { id: 8, src: "/images/realisations/terrasse2.jpg", alt: "Travaux de terrasse" },
   { id: 9, src: "/images/realisations/petite_cuisine.jpg", alt: "Installation d'une petite cuisine" },
-  { id: 10, src: "/images/realisations/pose_sol1.jpg", alt: "Pose de sol intérieur - photo 1" },
-  { id: 11, src: "/images/realisations/pose_sol2.jpg", alt: "Pose de sol intérieur - photo 2" },
+  { id: 10, src: "/images/realisations/pose_sol1.jpg", alt: "Pose de sol intérieur" },
+  { id: 11, src: "/images/realisations/pose_sol2.jpg", alt: "Pose de sol intérieur" },
   { id: 12, src: "/images/realisations/sdb_cocooning.jpg", alt: "Salle de bain cocooning" },
-  { id: 13, src: "/images/realisations/sol_cuuisine.jpg", alt: "Pose de sol dans une cuisine" },
+  { id: 13, src: "/images/realisations/tonte2.jpeg", alt: "Tonte de pelouse" },
   { id: 14, src: "/images/realisations/terrasse.jpg", alt: "Entretien et nettoyage de terrasse" },
-  { id: 15, src: "/images/realisations/terrasse2.jpg", alt: "Travaux de terrasse - photo 2" },
-  { id: 16, src: "/images/realisations/terrasse3.jpg", alt: "Travaux de terrasse - photo 3" },
+  { id: 15, src: "/images/realisations/terrasse3.jpg", alt: "Pose d'un bac de douche" },
+  { id: 16, src: "/images/realisations/sol_cuuisine.jpg", alt: "Pose de sol dans une cuisine" },
   { id: 17, src: "/images/realisations/exterieur2.jpg", alt: "Aménagement extérieur chez un particulier" },
   { id: 18, src: "/images/realisations/montage_meuble_cuisine2.jpg", alt: "Montage de meubles de cuisine" },
 ];

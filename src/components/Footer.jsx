@@ -8,7 +8,7 @@ function Footer() {
           <div>
             <p className="text-lg font-semibold">{businessInfo.brand}</p>
             <p className="mt-2 max-w-md text-sm text-brand-cream/80">
-              Homme à services de proximité pour particuliers à Concarneau et alentours.
+              Homme à services de proximité pour particuliers à Trégunc et alentours.
             </p>
           </div>
 
