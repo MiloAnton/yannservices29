@@ -6,8 +6,8 @@ export const businessInfo = {
   availability: "Disponible 6j/7",
   hours: "8h - 18h",
   responseDelay: "Sous 24h",
-  phoneDisplay: "06 62 01 54 74",
-  phoneRaw: "+33662015474",
+  phoneDisplay: "06 95 03 04 96",
+  phoneRaw: "+33695030496",
   email: "yannservices29@gmail.com",
   trustBadges: ["Intervention rapide", "Devis gratuit", "Travail soigné", "Zone : Trégunc + 10 km"],
 };
