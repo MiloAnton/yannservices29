@@ -1,5 +1,5 @@
 export const businessInfo = {
-  brand: "Yann Services 29",
+  brand: "YannServices29",
   owner: "Yann.P",
   logoPath: "/logoYANN.png",
   zone: "Trégunc et 10 km autour (Concarneau, Melgven, Rosporden, Pont-Aven, Névez...)",
