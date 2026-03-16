@@ -146,7 +146,7 @@ function Hero() {
           <img
             src={businessInfo.logoPath}
             alt={`Logo ${businessInfo.brand}`}
-            className="mx-auto mb-3 h-24 w-24 rounded-[1.5rem] bg-white object-cover p-1.5 shadow-card sm:mb-4 sm:h-32 sm:w-32 sm:rounded-[2rem] sm:p-2"
+            className="mx-auto mb-3 w-44 aspect-video rounded-[1.5rem] bg-white object-cover p-1.5 shadow-card sm:mb-4 sm:w-60 sm:rounded-[2rem] sm:p-2"
           />
 
           <p className="mb-3 inline-flex rounded-full border border-brand-sage bg-white/85 px-3 py-1 text-xs font-medium text-slate-700 sm:mb-4 sm:text-sm">
@@ -169,7 +169,7 @@ function Hero() {
               Appeler maintenant
             </a>
             <a
-              href={`mailto:${businessInfo.email}?subject=Demande%20de%20devis%20-%20Yann%20Services%2029`}
+              href={`mailto:${businessInfo.email}?subject=Demande%20de%20devis%20-%20TyBricolage`}
               className="inline-flex items-center justify-center rounded-2xl border border-slate-300 bg-white px-5 py-3 text-sm font-semibold text-slate-800 transition hover:border-brand-cta hover:text-brand-cta sm:px-6 sm:text-base"
             >
               Demander un devis

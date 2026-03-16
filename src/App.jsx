@@ -29,7 +29,7 @@ function App() {
             Appeler
           </a>
           <a
-            href={`mailto:${businessInfo.email}?subject=Demande%20de%20devis%20-%20Yann%20Services%2029`}
+            href={`mailto:${businessInfo.email}?subject=Demande%20de%20devis%20-%20TyBricolage`}
             className="flex-1 rounded-xl border border-slate-300 bg-white px-4 py-3 text-center text-sm font-semibold text-slate-800"
           >
             Email

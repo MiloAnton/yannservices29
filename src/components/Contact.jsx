@@ -20,7 +20,7 @@ function Contact() {
               Téléphone : {businessInfo.phoneDisplay}
             </a>
             <a
-              href={`mailto:${businessInfo.email}?subject=Demande%20de%20devis%20-%20Yann%20Services%2029`}
+              href={`mailto:${businessInfo.email}?subject=Demande%20de%20devis%20-%20TyBricolage`}
               className="inline-flex items-center justify-center rounded-2xl border border-slate-300 bg-white px-6 py-3 text-base font-semibold text-slate-800 transition hover:border-brand-cta hover:text-brand-cta"
             >
               Email : {businessInfo.email}

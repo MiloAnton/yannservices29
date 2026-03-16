@@ -15,7 +15,7 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-  background: #f5fee8;
+  background: #F9F7F0;
 }
 
 * {
@@ -23,6 +23,6 @@ body {
 }
 
 ::selection {
-  background: #d48538;
+  background: #FF8229;
   color: #fff;
 }

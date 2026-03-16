@@ -5,19 +5,19 @@ export default {
     extend: {
       colors: {
         brand: {
-          cream: "#F5FEE8",
-          sage: "#BBC9A8",
-          cta: "#D48538",
-          ink: "#1F2937",
-          soft: "#EEF5DE",
+          cream: "#F9F7F0",
+          sage: "#284032",
+          cta: "#FF8229",
+          ink: "#050E1C",
+          soft: "#ECEAE3",
         },
       },
       fontFamily: {
         sans: ["Inter", "sans-serif"],
       },
       boxShadow: {
-        card: "0 10px 30px rgba(31, 41, 55, 0.08)",
-        glow: "0 14px 40px rgba(212, 133, 56, 0.25)",
+        card: "0 10px 30px rgba(5, 14, 28, 0.08)",
+        glow: "0 14px 40px rgba(255, 130, 41, 0.25)",
       },
     },
   },

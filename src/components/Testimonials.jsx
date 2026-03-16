@@ -9,7 +9,7 @@ function Testimonials() {
           <p className="text-sm font-semibold uppercase tracking-[0.2em] text-brand-cta">Avis clients</p>
           <h2 className="mt-2 text-3xl font-bold text-brand-ink sm:text-4xl">Ce que disent les clients</h2>
           <p className="mt-3 max-w-2xl text-slate-700">
-            Des retours concrets sur la ponctualité, la qualité du travail et la réactivité de Yann Services 29.
+            Des retours concrets sur la ponctualité, la qualité du travail et la réactivité de TyBricolage.
           </p>
         </Reveal>
 
