@@ -8,7 +8,7 @@ export const businessInfo = {
   responseDelay: "Sous 24h",
   phoneDisplay: "06 95 03 04 96",
   phoneRaw: "+33695030496",
-  email: "yannservices29@gmail.com",
+  email: "tybricolage@gmail.com",
   trustBadges: ["Intervention rapide", "Devis gratuit", "Travail soigné", "Zone : Trégunc + 10 km"],
 };
 
