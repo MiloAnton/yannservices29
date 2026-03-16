@@ -143,11 +143,18 @@ function Hero() {
         </nav>
 
         <Reveal className="mx-auto max-w-5xl text-center">
-          <img
-            src={businessInfo.logoPath}
-            alt={`Logo ${businessInfo.brand}`}
-            className="mx-auto mb-3 w-44 aspect-video rounded-[1.5rem] bg-white object-cover p-1.5 shadow-card sm:mb-4 sm:w-60 sm:rounded-[2rem] sm:p-2"
-          />
+          <div className="relative mx-auto mb-3 w-44 sm:mb-4 sm:w-60">
+            <img
+              src={businessInfo.logoPath}
+              alt={`Logo ${businessInfo.brand}`}
+              className="w-full aspect-video rounded-[1.5rem] bg-white object-cover p-1.5 shadow-card sm:rounded-[2rem] sm:p-2"
+            />
+            <img
+              src="/Bretagne.png"
+              alt="Drapeau breton"
+              className="absolute -top-3 -left-28 h-[62px] w-auto rounded-xl shadow-card -rotate-6 sm:h-[90px] sm:-left-30"
+            />
+          </div>
 
           <p className="mb-3 inline-flex rounded-full border border-brand-sage bg-white/85 px-3 py-1 text-xs font-medium text-slate-700 sm:mb-4 sm:text-sm">
             {businessInfo.owner} • Intervention locale pour particuliers
