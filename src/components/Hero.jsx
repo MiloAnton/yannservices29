@@ -149,11 +149,11 @@ function Hero() {
               alt={`Logo ${businessInfo.brand}`}
               className="w-full aspect-video rounded-[1.5rem] bg-white object-cover p-1.5 shadow-card sm:rounded-[2rem] sm:p-2"
             />
-            <img
+            {/* <img
               src="/Bretagne.png"
               alt="Drapeau breton"
               className="absolute -top-3 -left-28 h-[62px] w-auto rounded-xl shadow-card -rotate-6 sm:h-[90px] sm:-left-30"
-            />
+            /> */}
           </div>
 
           <p className="mb-3 inline-flex rounded-full border border-brand-sage bg-white/85 px-3 py-1 text-xs font-medium text-slate-700 sm:mb-4 sm:text-sm">
